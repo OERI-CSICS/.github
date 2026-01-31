@@ -1,4 +1,4 @@
-![Center for Secure and Intelligent Critical Systems Logo](https://sics-c.org/wp-content/uploads/CSICS_Logo_White_cropped.png)  
+![Center for Secure and Intelligent Critical Systems Logo](https://github.com/OERI-CSICS/.github/blob/201dca1406baaeec6fc08fb6b306e3af274b7ab9/profile/CSICS%20GitHub-Transparent.png)  
 
 
 > A critical system is any system whose failure could result in threats to human life or the existence of an organization, significant economic losses and/or environmental harm.
